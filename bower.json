@@ -1,0 +1,10 @@
+{
+  "name": "jquery2.sinaEmotion",
+  "version": "0.0.0",
+  "description": "for sinaEmotion by jQuery2 plugin ",
+  "homepage": "https://github.com/unlangchan/jquery2.sinaEmotion/",
+  "main": ["jquery2.sinaEmotion.js","jquery2.sinaEmotion.css"],
+  "dependencies": {
+    "jquery": ">= 2.0.0"
+  }
+}
